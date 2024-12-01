@@ -1,1 +1,1 @@
-git clone https://github.com/your-username/your-repository.git
+This is my Git Lab assignment.
